@@ -39,5 +39,9 @@ Currently, I'm a Network intern at OneMain Financial. I'm learning how much of a
 
 In my free time, I'm teaching myself how to develop apps, and I'm passionate about building interactive, accessible tech. After graduation I'd like to be in a role that allows me to continue learning and programming, whether that's in a data science or research position like I've had before, or a software related position that lets me test out my skills in the tech industry! I love meeting and talking to new people and learning more about what kinds of opportunities I have for my career moving forward, so feel free to reach out at any point.
 
-
+## My Skills
+### Technical Skills
+{% include technicalskills.md % }
+### Soft Skills
+{% include softskills.md %}
 
